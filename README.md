@@ -1,10 +1,10 @@
-ATM Application 
+# ATM Application 
 
-Overview
+# Overview
 
 This is a simple console-based ATM application developed in Java. It allows users to perform basic banking operations such as checking balance, withdrawing money, crediting money to their account, and exiting the system.
 
-Features
+# Features
 
 Check Balance: Displays the current balance of the account.
 Withdraw Money: Allows the user to withdraw a specified amount, and updates the balance accordingly.
